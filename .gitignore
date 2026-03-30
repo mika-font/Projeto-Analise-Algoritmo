@@ -1,0 +1,25 @@
+# Artefatos de compilacao C/C++
+*.o
+*.obj
+*.out
+*.exe
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Pastas comuns de build
+build/
+bin/
+
+# Artefatos de compilacao Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Pastas comuns de build Java
+target/
+out/
+.gradle/
